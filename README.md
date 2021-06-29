@@ -18,4 +18,4 @@ Please execute below command in the ADIDAS folder to see the output
 
 ### cd image-app
 ### npm install
-### cd npm start
+### npm start
